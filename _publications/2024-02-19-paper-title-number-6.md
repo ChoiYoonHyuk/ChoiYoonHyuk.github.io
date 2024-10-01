@@ -5,5 +5,5 @@ category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 date: 2023-07-02
 venue: 'Conference on Uncertainty in Artificial Intelligence (UAI)'
-citation: 'Taewook Ko, <ins>Yoonhyuk Choi</ins>, Chong-Kwon Kim (2023)'
+citation: 'Taewook Ko, <ins>Yoonhyuk Choi</ins>, Chong-Kwon Kim'
 ---
