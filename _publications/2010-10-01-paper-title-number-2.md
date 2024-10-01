@@ -5,5 +5,5 @@ category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 date: 2023-05-01
 venue: 'Information Sciences'
-citation: 'Hyungho Byun, <ins>Yoonhyuk Choi</ins>, Chong-Kwon Kim (2023)'
+citation: 'Hyungho Byun, <ins>**Yoonhyuk Choi**</ins>, Chong-Kwon Kim (2023)'
 ---
