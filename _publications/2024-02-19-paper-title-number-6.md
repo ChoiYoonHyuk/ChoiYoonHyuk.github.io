@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
-date: 2022-10-17
+date: 2023-07-02
 venue: 'Conference on Uncertainty in Artificial Intelligence (UAI)'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Taewook Ko, Yoonhyuk Choi, Chong-Kwon Kim (2023)'
