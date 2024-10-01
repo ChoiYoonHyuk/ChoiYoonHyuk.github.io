@@ -5,5 +5,5 @@ category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 date: 2022-10-17
 venue: 'ACM Conference on Information and Knowledge Management (CIKM)'
-citation: '<ins>Yoonhyuk Choi</ins>, Jiho Choi, Taewook Ko, Hyungho Byun, Chong-Kwon Kim (2022)'
+citation: '<ins>Yoonhyuk Choi</ins>, Jiho Choi, Taewook Ko, Hyungho Byun, Chong-Kwon Kim'
 ---
