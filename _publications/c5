@@ -1,5 +1,5 @@
 ---
-title: "Beyond Message-Passing: Generalization of Graph Neural Networks via Feature Perturbation"
+title: "Perturbing Initial Features Improves Generalization of Message-Passing Neural Networks"
 collection: publications
 category: conferences
 date: 2024-10-24
