@@ -18,15 +18,15 @@ Education
 Work experience
 ======
 * Oct. 2024 ~ current: Research Scientist
-  * Samsung SDS
+  * Samsung SDS, Seoul, South Korea
   * AI Research Lab (LLM, Graph RAG)
 
 * Nov. 2023 ~ Sep. 2024: Postdoc
-  * Arizona State University
+  * Arizona State University, Tempe, AZ, USA
   * Duties included: Solving water-related problems
   * Supervisor: Selcuk Candan, Huan Liu
 
 * Sep. 2023 ~ Nov. 2023: Postdoc
-  * Korea Institute of Energy Technology
+  * Korea Institute of Energy Technology, Naju, South Korea
   * Duties included: Co-work with undergrad students
   * Supervisor: Chong-Kwon Kim
