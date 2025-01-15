@@ -17,9 +17,9 @@ Education
 
 Work experience
 ======
-* Oct. 2024 ~ current: Samsung SDS
-  * AI Research Lab
-  * LLM, Graph RAG
+* Oct. 2024 ~ current: Research Scientist
+  * Samsung SDS
+  * AI Research Lab (LLM, Graph RAG)
 
 * Nov. 2023 ~ Sep. 2024: Postdoc
   * Arizona State University
