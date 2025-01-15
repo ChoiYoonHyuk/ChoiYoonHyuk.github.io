@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Oct. 2024 ~ : Samsung SDS
+* Oct. 2024 ~ current: Samsung SDS
   * AI Research Lab
   * LLM, Graph RAG
 
