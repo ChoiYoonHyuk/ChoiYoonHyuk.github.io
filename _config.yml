@@ -78,7 +78,7 @@ publication_category:
   books:
     title: 'Books'
   conferences:
-    title: 'Conference Papers'
+    title: 'Conference Proceedings'
   manuscripts:
     title: 'Journal Articles' 
   preprints:
