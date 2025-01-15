@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Yoonhyuk Choi"
   pronouns         : # example: "she/her"  
-  bio              : "Data mining, graph analysis, LLM"
-  location         : "Tempe"
-  employer         : "Arizona State University"
+  bio              : "Data mining, graph neural network, LLM"
+  location         : "Seoul"
+  employer         : "Samsung SDS"
   uri              : # URL
   email            : "chldbsgur123@gmail.com" 
 
