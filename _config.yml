@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Yoonhyuk Choi"
   pronouns         : # example: "she/her"  
-  bio              : "Data mining, graph neural network, LLM"
+  bio              : "Machine learning, LLM, RAG, graph neural network, recommender systems"
   location         : "Seoul"
   employer         : "Samsung SDS"
   uri              : # URL
