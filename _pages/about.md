@@ -12,8 +12,8 @@ I am currently working as a research scientist at Samsung SDS, Seoul. I did my P
 
 Education
 ======
-* M.S. & Ph.D in Seoul National Univ., Mar. 2019 ~ Aug. 2023
-* B.S. in Univ. of Seoul, Mar. 2013 ~ Feb. 2019
+* (M.S. & Ph.D) Seoul National Univ., Mar. 2019 ~ Aug. 2023
+* (B.S.) Univ. of Seoul, Mar. 2013 ~ Feb. 2019
 
 Work experience
 ======
