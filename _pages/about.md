@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * Sep. 2025 ~ : Assistant Professor
-  * Sookmyung Women's University, Seoul, South Korea
+  * Sookmyung Women's Univ., Seoul, South Korea
   * Department of AI
 
 * Oct. 2024 ~ Aug. 2025: Research Scientist
@@ -26,7 +26,7 @@ Work experience
   * AI Preceding Lab (LLM, Graph RAG)
 
 * Nov. 2023 ~ Sep. 2024: Postdoc
-  * Arizona State University, Tempe, AZ, USA
+  * Arizona State Univ., Tempe, AZ, USA
   * Duties included: Solving water-related problems
   * Supervisor: Selcuk Candan, Huan Liu
 
