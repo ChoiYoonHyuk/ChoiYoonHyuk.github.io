@@ -18,7 +18,7 @@ Language Models · Retrieval-Augmented Generation (Graph RAG) · Graph Neural Ne
 
 ### 모집 대상
 - **석사/박사 대학원생** (정원 내/외 장학 가능)
-- **학부 연구생(인턴)**
+- **학부 연구생** (인턴)
 
 
 ### 연구 주제
@@ -34,6 +34,7 @@ Language Models · Retrieval-Augmented Generation (Graph RAG) · Graph Neural Ne
 1) 아래 서류를 **하나의 PDF**로 묶어서 보내주세요.
 - CV(자유양식) / 학부(및 대학원) 성적표
 - 관심 주제·최근 읽은 논문 1편 요약·희망 연구 주제
+  
 2) **이메일 제목**: `[Join][학위/포지션][이름][희망 입학/시작 시기]`
 **보낼 곳**: `<chldbsgur123@sookmyung.ac.kr>`
 
