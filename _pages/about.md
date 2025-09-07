@@ -13,7 +13,7 @@ I joined Sookmyung Women's University as an Assistant Professor in September 202
 Work experience
 ======
 * Sep. 2025 ~ : Assistant Professor
-  * Sookmyung Women's Univ., Seoul, South Korea
+  * Sookmyung Women's University, Seoul, South Korea
   * Department of AI
 
 * Oct. 2024 ~ Aug. 2025: Research Scientist
@@ -21,7 +21,7 @@ Work experience
   * AI Preceding Lab (LLM, Graph RAG)
 
 * Nov. 2023 ~ Sep. 2024: Postdoc
-  * Arizona State Univ., Tempe, AZ, USA
+  * Arizona State University, Tempe, AZ, USA
   * Duties included: Solving water-related problems
   * Supervisor: Selcuk Candan, Huan Liu
 
@@ -33,4 +33,4 @@ Work experience
 Education
 ======
 * (M.S. & Ph.D) Seoul National Univ., Mar. 2019 ~ Aug. 2023
-* (B.S.) Univ. of Seoul, Mar. 2013 ~ Feb. 2019
+* (B.S.) University of Seoul, Mar. 2013 ~ Feb. 2019
