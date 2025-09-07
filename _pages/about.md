@@ -18,7 +18,8 @@ Work experience
 
 * Oct. 2024 ~ Aug. 2025: Research Scientist
   * Samsung SDS, Seoul, South Korea
-  * AI Preceding Lab (LLM, Graph RAG)
+  * Duties included: LLM, Graph RAG
+  * AI Preceding Lab
 
 * Nov. 2023 ~ Sep. 2024: Postdoc
   * Arizona State University, Tempe, AZ, USA
