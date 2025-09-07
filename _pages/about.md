@@ -32,5 +32,5 @@ Work experience
 
 Education
 ======
-* (M.S. & Ph.D) Seoul National Univ., Mar. 2019 ~ Aug. 2023
+* (M.S. & Ph.D) Seoul National University, Mar. 2019 ~ Aug. 2023
 * (B.S.) University of Seoul, Mar. 2013 ~ Feb. 2019
