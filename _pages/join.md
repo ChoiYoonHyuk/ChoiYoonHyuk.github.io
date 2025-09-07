@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "New Member Recruiting (신입 연구실 멤버 모집)"
+title: "New Member Recruiting (2025년 12월 예정 - 신입 연구실 멤버 모집)"
 permalink: /join/
 author_profile: true
 header:
@@ -51,4 +51,4 @@ Language Models · Retrieval-Augmented Generation (Graph RAG) · Graph Neural Ne
 
 ### English (short)
 We welcome **M.S./Ph.D. students, research interns, and RAs**. Research areas: LLMs, (Graph) RAG, GNNs, Recommender Systems.
-**How to apply:** send a single PDF (CV, transcripts, optional portfolio) and a 1‑page statement to `<your-email@sm.ac.kr>` with subject `[Join][Role][Your Name][Start term]`.
+**How to apply:** send a single PDF (CV, transcripts, optional portfolio) and a 1‑page statement to `<chldbsgur123@sookmyung.ac.kr>` with subject `[Join][Role][Your Name][Start term]`.
