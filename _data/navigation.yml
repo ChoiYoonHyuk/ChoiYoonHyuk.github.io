@@ -5,12 +5,12 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "Recruiting"
+    url: /join/
   - title: "Publications"
     url: /publications/
   - title: "Lectures"
     url: /lectures/
-  - title: "Recruiting"
-    url: /join/
 #  - title: "Talks"
 #    url: /talks/    
 
