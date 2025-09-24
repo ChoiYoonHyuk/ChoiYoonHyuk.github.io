@@ -5,12 +5,29 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% include base_path %}
+
 {% assign pubs = site.publications | sort: "date" %}
 
 ## Conference
 * * *
 {% for p in pubs reversed %}
-  {% if p.type == "Conference" or p.pubtype == "Conference" %}
+  {% assign cat = p.category  | downcase %}
+  {% assign typ = p.type      | downcase %}
+  {% assign ptype = p.pubtype | downcase %}
+  {% assign ven = p.venue     | downcase %}
+  {% if cat == "conference" or typ == "conference" or ptype == "conference" or ven contains "conference" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
@@ -18,15 +35,23 @@ author_profile: true
 ## Journal
 * * *
 {% for p in pubs reversed %}
-  {% if p.type == "Journal" or p.pubtype == "Journal" %}
+  {% assign cat = p.category  | downcase %}
+  {% assign typ = p.type      | downcase %}
+  {% assign ptype = p.pubtype | downcase %}
+  {% assign ven = p.venue     | downcase %}
+  {% if cat == "journal" or typ == "journal" or ptype == "journal" or ven contains "journal" or ven contains "transactions" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
-## Arxiv
+## arXiv
 * * *
 {% for p in pubs reversed %}
-  {% if p.type == "arXiv" or p.pubtype == "arXiv" %}
+  {% assign cat = p.category  | downcase %}
+  {% assign typ = p.type      | downcase %}
+  {% assign ptype = p.pubtype | downcase %}
+  {% assign ven = p.venue     | downcase %}
+  {% if cat == "arxiv" or typ == "arxiv" or ptype == "arxiv" or ven contains "arxiv" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
@@ -34,7 +59,11 @@ author_profile: true
 ## Patents
 * * *
 {% for p in pubs reversed %}
-  {% if p.type == "Patent" or p.pubtype == "Patent" or p.type contains "Patent" %}
+  {% assign cat = p.category  | downcase %}
+  {% assign typ = p.type      | downcase %}
+  {% assign ptype = p.pubtype | downcase %}
+  {% assign ven = p.venue     | downcase %}
+  {% if cat contains "patent" or typ contains "patent" or ptype contains "patent" or ven contains "patent" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
