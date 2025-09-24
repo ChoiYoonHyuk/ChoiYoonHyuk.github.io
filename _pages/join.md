@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "New Member Recruiting (2025년 12월 예정 - 신입 연구실 멤버 모집)"
+title: "New Member Recruiting (신입 연구실 멤버 모집)"
 permalink: /join/
 author_profile: true
 header:
