@@ -7,6 +7,14 @@ author_profile: true
 
 {% assign pubs = site.publications | sort: "date" %}
 
+## Conference
+* * *
+{% for p in pubs reversed %}
+  {% if p.type == "Conference" or p.pubtype == "Conference" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
 ## Journal
 * * *
 {% for p in pubs reversed %}
@@ -15,10 +23,10 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-## Conference
+## Arxiv
 * * *
 {% for p in pubs reversed %}
-  {% if p.type == "Conference" or p.pubtype == "Conference" %}
+  {% if p.type == "arXiv" or p.pubtype == "arXiv" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
