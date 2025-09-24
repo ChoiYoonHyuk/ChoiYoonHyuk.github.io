@@ -83,6 +83,8 @@ publication_category:
     title: 'Journal Articles' 
   preprints:
     title: 'Preprint'
+  patents:
+    title: 'Patents'
   
 
 # Site Settings
