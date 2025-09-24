@@ -15,7 +15,7 @@ toc_icon: "list"
  그래프 · 추천 · 언어 모델 연구실 (Graph · Recommender · LLM Lab)
 
 **연구 분야**
- Language Models · Retrieval-Augmented Generation (RAG) · Graph Neural Networks · Recommender Systems · Data Mining
+ Large Language Models · Retrieval-Augmented Generation · Graph Neural Networks · Recommender Systems · Data Mining 등
 
 
 ### 모집 대상
