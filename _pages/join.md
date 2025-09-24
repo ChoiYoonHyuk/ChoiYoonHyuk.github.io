@@ -11,7 +11,7 @@ toc: true
 toc_icon: "list"
 ---
 
-**연구실명**
+**연구실 명**
  그래프 · 추천 · 언어 모델 연구실 (Graph · Recommender · LLM Lab)
 
 **연구 분야**
