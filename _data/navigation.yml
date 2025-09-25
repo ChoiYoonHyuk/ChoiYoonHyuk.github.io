@@ -6,7 +6,7 @@
 
 main:
   - title: "Recruiting"
-    url: /
+    url: /join/
   - title: "About me"
     url: /about/
   - title: "Publications"
