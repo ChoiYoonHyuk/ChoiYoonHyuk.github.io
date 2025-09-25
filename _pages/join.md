@@ -2,7 +2,6 @@
 permalink: /
 layout: single
 title: "New Member Recruiting (신입 연구실 멤버 모집)"
-permalink: /join/
 author_profile: true
 header:
 overlay_color: "#333"
