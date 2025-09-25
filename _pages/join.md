@@ -1,5 +1,4 @@
 ---
-permalink: /
 permalink: /join/
 layout: single
 title: "New Member Recruiting (신입 연구실 멤버 모집)"
