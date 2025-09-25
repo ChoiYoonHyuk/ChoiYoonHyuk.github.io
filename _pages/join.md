@@ -9,9 +9,6 @@ overlay_filter: 0.1
 caption: "Join our lab at Sookmyung Women's University (Dept. of AI)"
 toc: true
 toc_icon: "list"
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 **연구실 명**
