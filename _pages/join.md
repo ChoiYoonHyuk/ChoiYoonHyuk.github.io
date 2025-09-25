@@ -1,9 +1,8 @@
 ---
-permalink: /join/
 layout: single
 title: "New Member Recruiting (신입 연구실 멤버 모집)"
 author_profile: true
-header:
+permalink: /
 overlay_color: "#333"
 overlay_filter: 0.1
 caption: "Join our lab at Sookmyung Women's University (Dept. of AI)"
