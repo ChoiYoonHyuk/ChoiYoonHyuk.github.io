@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "New Member Recruiting (신입 연구실 멤버 모집) \ - 2025. 12. 17. 기준 임시 마감"
+title: "New Member Recruiting (신입 연구실 멤버 모집) \\ - 2025. 12. 17. 기준 임시 마감"
 author_profile: true
 permalink: /
 overlay_color: "#333"
