@@ -51,6 +51,6 @@ toc_icon: "list"
 ---
 
 
-### English (short)
 We welcome **M.S./Ph.D. students, research interns, and RAs**. Research areas: LLMs, (Graph) RAG, GNNs, Recommender Systems.
+
 **How to apply:** send a single PDF (CV, transcripts, optional portfolio) and a 1‑page statement to `<chldbsgur123@sookmyung.ac.kr>` with subject `[Join][Role][Your Name][Start term]`.
