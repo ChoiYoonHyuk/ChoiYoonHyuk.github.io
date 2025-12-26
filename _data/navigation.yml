@@ -6,7 +6,8 @@
 
 main:
   - title: "About me"
-    url: /about/
+    url: /
+    #url: /about/
   - title: "Members"
     url: /members/
   - title: "Publications"
@@ -14,7 +15,8 @@ main:
   - title: "Lectures"
     url: /lectures/
   - title: "Recruiting"
-    url: /
+    url: /join/
+    #url: /
 #  - title: "Talks"
 #    url: /talks/    
 
