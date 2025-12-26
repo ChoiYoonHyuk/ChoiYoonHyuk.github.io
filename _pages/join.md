@@ -2,7 +2,7 @@
 layout: single
 title: "New Member Recruiting (신입 연구실 멤버 모집) <br/> - 2025. 12. 17. 기준 임시 마감"
 author_profile: true
-permalink: /
+permalink: /join/
 overlay_color: "#333"
 overlay_filter: 0.1
 caption: "Join our lab at Sookmyung Women's University (Dept. of AI) - Not recruiting a new member at this moment (Dec. 17, 2025)"
