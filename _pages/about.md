@@ -13,23 +13,16 @@ I joined Sookmyung Women's University as an Assistant Professor in September 202
 Work experience
 ======
 * Sep. 2025 ~ : Assistant Professor
-  * Sookmyung Women's University, Seoul, South Korea
-  * Department of AI
+  * Sookmyung Women's University, Seoul (Dept. of AI)
 
 * Oct. 2024 ~ Aug. 2025: Research Scientist
-  * Samsung SDS, Seoul, South Korea
-  * Duties included: LLM, Graph RAG
-  * AI Preceding Lab
+  * Samsung SDS, Seoul (AI Preceding Lab)
 
 * Nov. 2023 ~ Sep. 2024: Postdoc
-  * Arizona State University, Tempe, AZ, USA
-  * Duties included: Solving water-related problems
-  * Supervisor: Selcuk Candan, Huan Liu
+  * Arizona State University, Tempe (School of Computing and Augmented Intelligence)
 
 * Sep. 2023 ~ Nov. 2023: Postdoc
-  * Korea Institute of Energy Technology, Naju, South Korea
-  * Duties included: Co-work with undergrad students
-  * Supervisor: Chong-Kwon Kim
+  * Korea Institute of Energy Technology, Naju (Energy AI)
 
 Education
 ======
