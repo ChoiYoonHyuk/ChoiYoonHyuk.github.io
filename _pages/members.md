@@ -11,7 +11,7 @@ author_profile: true
     <img src="https://github.com/user-attachments/assets/c3ec6d01-6539-4509-afb1-6bf3a6e43217"
          style="width:120px;height:120px;object-fit:cover;border-radius:8px;flex-shrink:0;">
     <div>
-      <strong><a href="https://github.com/isliese">김찬란<\a></strong><br>
+      <strong><a href="https://github.com/isliese">김찬란</a></strong><br>
       B.S. student (2025. 11 – )
     </div>
   </div>
@@ -29,7 +29,7 @@ author_profile: true
     <img src="https://github.com/user-attachments/assets/138dd72b-2e11-4797-a771-b87607c2d13a"
          style="width:120px;height:120px;object-fit:cover;border-radius:8px;flex-shrink:0;">
     <div>
-      <strong><a href="https://github.com/sungchaewon">성채원<\a></strong><br>
+      <strong><a href="https://github.com/sungchaewon">성채원</a></strong><br>
       B.S. student (2026. 1 – )
     </div>
   </div>
