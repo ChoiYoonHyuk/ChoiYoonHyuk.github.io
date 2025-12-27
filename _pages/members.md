@@ -12,7 +12,7 @@ author_profile: true
          style="width:120px;height:120px;object-fit:cover;border-radius:8px;flex-shrink:0;">
     <div>
       <strong><a href="https://github.com/isliese">김찬란</a></strong><br>
-      B.S. student (2025. 11 – )
+      B.S. student (2025. 11 ~ current)
     </div>
   </div>
 
@@ -21,7 +21,7 @@ author_profile: true
          style="width:120px;height:120px;object-fit:cover;border-radius:8px;flex-shrink:0;">
     <div>
       <strong>이유민</strong><br>
-      B.S. student (2025. 12 – )
+      B.S. student (2025. 12 ~ current)
     </div>
   </div>
 
@@ -30,7 +30,7 @@ author_profile: true
          style="width:120px;height:120px;object-fit:cover;border-radius:8px;flex-shrink:0;">
     <div>
       <strong><a href="https://github.com/sungchaewon">성채원</a></strong><br>
-      B.S. student (2026. 1 – )
+      B.S. student (2026. 1 ~ current)
     </div>
   </div>
 
