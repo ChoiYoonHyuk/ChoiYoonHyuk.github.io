@@ -15,4 +15,5 @@ author_profile: true
 
 - <img src="https://github.com/user-attachments/assets/138dd72b-2e11-4797-a771-b87607c2d13a"
        width="120" style="border-radius: 8px;">
+       
   성채원 (B.S. student, 2026. 1 – )
