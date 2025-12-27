@@ -9,7 +9,7 @@ author_profile: true
 
   <div style="width: 45%; display: flex; align-items: center; gap: 12px;">
     <img src="https://github.com/user-attachments/assets/c3ec6d01-6539-4509-afb1-6bf3a6e43217"
-         width="120" style="border-radius: 8px;">
+         style="width:120px;height:120px;object-fit:cover;border-radius:8px;flex-shrink:0;">
     <div>
       <strong>김찬란</strong><br>
       B.S. student (2025. 11 – )
@@ -18,7 +18,7 @@ author_profile: true
 
   <div style="width: 45%; display: flex; align-items: center; gap: 12px;">
     <img src="https://github.com/user-attachments/assets/9448f39d-99c9-41a7-b2ad-774c551131e0"
-         width="120" style="border-radius: 8px;">
+         style="width:120px;height:120px;object-fit:cover;border-radius:8px;flex-shrink:0;">
     <div>
       <strong>이유민</strong><br>
       B.S. student (2025. 12 – )
@@ -27,7 +27,7 @@ author_profile: true
 
   <div style="width: 45%; display: flex; align-items: center; gap: 12px;">
     <img src="https://github.com/user-attachments/assets/138dd72b-2e11-4797-a771-b87607c2d13a"
-         width="120" style="border-radius: 8px;">
+         style="width:120px;height:120px;object-fit:cover;border-radius:8px;flex-shrink:0;">
     <div>
       <strong>성채원</strong><br>
       B.S. student (2026. 1 – )
