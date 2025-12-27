@@ -5,15 +5,33 @@ permalink: /members/
 author_profile: true
 ---
 
-- <img src="https://github.com/user-attachments/assets/c3ec6d01-6539-4509-afb1-6bf3a6e43217" 
-       width="120" style="border-radius: 8px;">  
-  김찬란 (B.S. student, 2025. 11 – )
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-- <img src="https://github.com/user-attachments/assets/9448f39d-99c9-41a7-b2ad-774c551131e0" 
-       width="120" style="border-radius: 8px;">  
-  이유민 (B.S. student, 2025. 12 – )
+  <div style="width: 45%; display: flex; align-items: center; gap: 12px;">
+    <img src="https://github.com/user-attachments/assets/c3ec6d01-6539-4509-afb1-6bf3a6e43217"
+         width="120" style="border-radius: 8px;">
+    <div>
+      <strong>김찬란</strong><br>
+      B.S. student (2025. 11 – )
+    </div>
+  </div>
 
-- <img src="https://github.com/user-attachments/assets/138dd72b-2e11-4797-a771-b87607c2d13a"
-       width="120" style="border-radius: 8px;">
-       
-  성채원 (B.S. student, 2026. 1 – )
+  <div style="width: 45%; display: flex; align-items: center; gap: 12px;">
+    <img src="https://github.com/user-attachments/assets/9448f39d-99c9-41a7-b2ad-774c551131e0"
+         width="120" style="border-radius: 8px;">
+    <div>
+      <strong>이유민</strong><br>
+      B.S. student (2025. 12 – )
+    </div>
+  </div>
+
+  <div style="width: 45%; display: flex; align-items: center; gap: 12px;">
+    <img src="https://github.com/user-attachments/assets/138dd72b-2e11-4797-a771-b87607c2d13a"
+         width="120" style="border-radius: 8px;">
+    <div>
+      <strong>성채원</strong><br>
+      B.S. student (2026. 1 – )
+    </div>
+  </div>
+
+</div>
