@@ -34,4 +34,13 @@ author_profile: true
     </div>
   </div>
 
+  <div style="width: 45%; display: flex; align-items: center; gap: 12px;">
+    <img src="https://github.com/user-attachments/assets/3f80becf-6749-47b9-aa7d-49e2b38c14bc"
+         style="width:120px;height:120px;object-fit:cover;border-radius:8px;flex-shrink:0;">
+    <div>
+      <strong><a href="https://github.com/sungchaewon">신하원</a></strong><br>
+      B.S. student (2026. 1 ~ )
+    </div>
+  </div>
+
 </div>
