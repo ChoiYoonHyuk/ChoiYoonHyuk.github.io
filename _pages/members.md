@@ -38,7 +38,7 @@ author_profile: true
     <img src="https://github.com/user-attachments/assets/3f80becf-6749-47b9-aa7d-49e2b38c14bc"
          style="width:120px;height:120px;object-fit:cover;border-radius:8px;flex-shrink:0;">
     <div>
-      <strong><a href="https://github.com/sungchaewon">신하원</a></strong><br>
+      <strong>신하원</strong><br>
       B.S. student (2026. 1 ~ )
     </div>
   </div>
