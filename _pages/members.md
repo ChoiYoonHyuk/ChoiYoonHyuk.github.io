@@ -49,5 +49,11 @@ author_profile: true
       B.S. student (2026. 1 ~ )
     </div>
   </div>
-
+  
+  <div style="width: 45%; display: flex; align-items: center; gap: 12px;">
+    <div>
+      <strong>이채연</strong><br>
+      B.S. student (2026. 3 ~ )
+    </div>
+  </div>
 </div>
