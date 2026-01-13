@@ -44,6 +44,8 @@ author_profile: true
   </div>
 
   <div style="width: 45%; display: flex; align-items: center; gap: 12px;">
+    <img src="https://github.com/user-attachments/assets/f77a71d5-d1c9-481c-bc2d-c8004c8fb88c"
+         style="width:120px;height:120px;object-fit:cover;border-radius:8px;flex-shrink:0;">
     <div>
       <strong><a href="https://github.com/owonye">전여원</a></strong><br>
       B.S. student (2026. 1 ~ )
