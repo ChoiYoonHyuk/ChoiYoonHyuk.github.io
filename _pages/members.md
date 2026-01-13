@@ -20,7 +20,7 @@ author_profile: true
     <img src="https://github.com/user-attachments/assets/9448f39d-99c9-41a7-b2ad-774c551131e0"
          style="width:120px;height:120px;object-fit:cover;border-radius:8px;flex-shrink:0;">
     <div>
-      <strong>이유민</strong><br>
+      <strong><a href="https://github.com/YUM1yum">이유민</a></strong><br>
       B.S. student (2025. 12 ~ )
     </div>
   </div>
