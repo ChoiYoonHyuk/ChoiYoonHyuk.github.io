@@ -43,4 +43,11 @@ author_profile: true
     </div>
   </div>
 
+    <div style="width: 45%; display: flex; align-items: center; gap: 12px;">
+    <div>
+      <strong>전여원</strong><br>
+      B.S. student (2026. 1 ~ )
+    </div>
+  </div>
+
 </div>
