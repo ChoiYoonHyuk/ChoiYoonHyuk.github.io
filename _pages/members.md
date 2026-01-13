@@ -26,19 +26,19 @@ author_profile: true
   </div>
 
   <div style="width: 45%; display: flex; align-items: center; gap: 12px;">
-    <img src="https://github.com/user-attachments/assets/138dd72b-2e11-4797-a771-b87607c2d13a"
-         style="width:120px;height:120px;object-fit:cover;border-radius:8px;flex-shrink:0;">
-    <div>
-      <strong><a href="https://github.com/sungchaewon">성채원</a></strong><br>
-      B.S. student (2026. 1 ~ )
-    </div>
-  </div>
-
-  <div style="width: 45%; display: flex; align-items: center; gap: 12px;">
     <img src="https://github.com/user-attachments/assets/3f80becf-6749-47b9-aa7d-49e2b38c14bc"
          style="width:120px;height:120px;object-fit:cover;border-radius:8px;flex-shrink:0;">
     <div>
       <strong>신하원</strong><br>
+      B.S. student (2025. 12 ~ )
+    </div>
+  </div>
+
+  <div style="width: 45%; display: flex; align-items: center; gap: 12px;">
+    <img src="https://github.com/user-attachments/assets/138dd72b-2e11-4797-a771-b87607c2d13a"
+         style="width:120px;height:120px;object-fit:cover;border-radius:8px;flex-shrink:0;">
+    <div>
+      <strong><a href="https://github.com/sungchaewon">성채원</a></strong><br>
       B.S. student (2026. 1 ~ )
     </div>
   </div>
