@@ -45,7 +45,7 @@ author_profile: true
 
   <div style="width: 45%; display: flex; align-items: center; gap: 12px;">
     <div>
-      <strong>전여원</strong><br>
+      <strong><a href="https://github.com/owonye">전여원</a></strong><br>
       B.S. student (2026. 1 ~ )
     </div>
   </div>
