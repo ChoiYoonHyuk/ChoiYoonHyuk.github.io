@@ -53,6 +53,8 @@ author_profile: true
   </div>
   
   <div style="width: 45%; display: flex; align-items: center; gap: 12px;">
+    <img src="https://github.com/user-attachments/assets/c7eb2464-dcf5-4eda-b1b7-739317d1286a"
+         style="width:120px;height:120px;object-fit:cover;border-radius:8px;flex-shrink:0;">
     <div>
       <strong>이채연</strong><br>
       B.S. student (2026. 3 ~ )
