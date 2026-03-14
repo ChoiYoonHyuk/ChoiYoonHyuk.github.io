@@ -5,6 +5,21 @@ permalink: /members/
 author_profile: true
 ---
 
+<h2>Masters</h2>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 40px;">
+
+  <div style="width: 45%; display: flex; align-items: center; gap: 12px;">
+    <img src="https://github.com/user-attachments/assets/9ab5d813-a765-4230-b290-b673e785d4ee"
+         style="width:120px;height:120px;object-fit:cover;border-radius:8px;flex-shrink:0;">
+    <div>
+      <strong><a href="">김남희</a></strong><br>
+      M.S. student (2026. 3 ~ )
+    </div>
+  </div>
+  
+</div>
+
+<h2>Undergrads</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <div style="width: 45%; display: flex; align-items: center; gap: 12px;">
@@ -60,4 +75,5 @@ author_profile: true
       B.S. student (2026. 3 ~ )
     </div>
   </div>
+
 </div>
