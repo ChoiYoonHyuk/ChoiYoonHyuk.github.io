@@ -12,7 +12,7 @@ author_profile: true
     <img src="https://github.com/user-attachments/assets/9ab5d813-a765-4230-b290-b673e785d4ee"
          style="width:120px;height:120px;object-fit:cover;border-radius:8px;flex-shrink:0;">
     <div>
-      <strong><a href="">김남희</a></strong><br>
+      <strong>김남희</strong><br>
       M.S. student (2026. 3 ~ )
     </div>
   </div>
