@@ -72,7 +72,25 @@ author_profile: true
          style="width:120px;height:120px;object-fit:cover;border-radius:8px;flex-shrink:0;">
     <div>
       <strong>이채연</strong><br>
-      B.S. student (2026. 3 ~ )
+      B.S. student (2026. 2 ~ )
+    </div>
+  </div>
+
+  <div style="width: 45%; display: flex; align-items: center; gap: 12px;">
+    <img src="https://github.com/user-attachments/assets/6d7f31aa-865d-4659-8683-94ec4996276e"
+         style="width:120px;height:120px;object-fit:cover;border-radius:8px;flex-shrink:0;">
+    <div>
+      <strong>오현서</strong><br>
+      B.S. student (2026. 2 ~ )
+    </div>
+  </div>
+
+  <div style="width: 45%; display: flex; align-items: center; gap: 12px;">
+    <img src="https://github.com/user-attachments/assets/b8ec8f0b-8456-435e-b55a-e80f70cbe6cf"
+         style="width:120px;height:120px;object-fit:cover;border-radius:8px;flex-shrink:0;">
+    <div>
+      <strong>백은서</strong><br>
+      B.S. student (2026. 2 ~ )
     </div>
   </div>
 
