@@ -90,29 +90,40 @@ a:hover {
 /* ----------------------------------------------------------
    5. MASTHEAD / NAVIGATION BAR
    ---------------------------------------------------------- */
-.masthead {
-  background: var(--color-ink) !important;
-  border-bottom: 3px solid var(--color-accent-warm);
+.masthead,
+.masthead__inner-wrap,
+nav.greedy-nav {
+  background: #1a1a2e !important;
+  border-bottom: 3px solid #c17a38 !important;
   box-shadow: 0 2px 16px rgba(26,26,46,0.18);
 }
 
+/* 메뉴 글씨 — 흰색으로 명확하게 */
 .masthead__menu-item a,
-.greedy-nav a {
+.masthead__menu-item > a,
+.greedy-nav a,
+.greedy-nav .visible-links a,
+.greedy-nav .visible-links > li > a {
   font-family: var(--font-heading);
   font-size: 0.92rem;
-  font-weight: 600;
-  letter-spacing: 0.04em;
-  color: #111111 !important;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  color: #ffffff !important;
   text-transform: uppercase;
 }
 
 .masthead__menu-item a:hover,
-.greedy-nav a:hover {
-  color: var(--color-accent-warm) !important;
+.masthead__menu-item > a:hover,
+.greedy-nav a:hover,
+.greedy-nav .visible-links a:hover {
+  color: #c17a38 !important;
   text-decoration: none;
 }
 
-.site-title, .masthead__inner-wrap .site-title {
+/* 사이트 이름 */
+.site-title,
+.masthead__inner-wrap .site-title,
+a.site-title {
   font-family: var(--font-heading) !important;
   font-size: 1.1rem !important;
   font-weight: 700;
