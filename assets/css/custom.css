@@ -90,29 +90,35 @@ a:hover {
 /* ----------------------------------------------------------
    5. MASTHEAD / NAVIGATION BAR
    ---------------------------------------------------------- */
+/* greedy-nav 자체가 흰색 배경을 갖고 있어 흰 박스처럼 보이는 문제 해결 */
 .masthead {
   background: #1a1a2e !important;
   border-bottom: 3px solid #c17a38 !important;
-  box-shadow: 0 2px 16px rgba(26,26,46,0.18);
+  box-shadow: 0 3px 20px rgba(26,26,46,0.22);
 }
 
-.masthead__inner-wrap {
+.masthead__inner-wrap,
+.masthead__menu,
+.greedy-nav {
   background: transparent !important;
   border: none !important;
   box-shadow: none !important;
 }
 
-nav.greedy-nav {
-  background: transparent !important;
-  border: none !important;
-  box-shadow: none !important;
-}
-
-/* 햄버거 메뉴(모바일) 드롭다운도 동일 배경 */
-.greedy-nav__toggle,
+/* 모바일 드롭다운 hidden-links */
 .greedy-nav .hidden-links {
   background: #1a1a2e !important;
-  border-color: #c17a38 !important;
+  border: 1px solid #c17a38 !important;
+  box-shadow: 0 4px 16px rgba(26,26,46,0.3) !important;
+}
+
+.greedy-nav .hidden-links li a {
+  color: #ffffff !important;
+}
+
+.greedy-nav .hidden-links li a:hover {
+  color: #c17a38 !important;
+  background: rgba(255,255,255,0.05) !important;
 }
 
 /* 메뉴 글씨 — 흰색으로 명확하게 */
