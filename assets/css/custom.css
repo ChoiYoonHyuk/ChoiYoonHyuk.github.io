@@ -90,12 +90,29 @@ a:hover {
 /* ----------------------------------------------------------
    5. MASTHEAD / NAVIGATION BAR
    ---------------------------------------------------------- */
-.masthead,
-.masthead__inner-wrap,
-nav.greedy-nav {
+.masthead {
   background: #1a1a2e !important;
   border-bottom: 3px solid #c17a38 !important;
   box-shadow: 0 2px 16px rgba(26,26,46,0.18);
+}
+
+.masthead__inner-wrap {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+nav.greedy-nav {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* 햄버거 메뉴(모바일) 드롭다운도 동일 배경 */
+.greedy-nav__toggle,
+.greedy-nav .hidden-links {
+  background: #1a1a2e !important;
+  border-color: #c17a38 !important;
 }
 
 /* 메뉴 글씨 — 흰색으로 명확하게 */
