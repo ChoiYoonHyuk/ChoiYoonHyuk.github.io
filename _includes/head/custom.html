@@ -37,3 +37,39 @@
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 <!-- end custom head snippets -->
+
+<style>
+  /* Publications 페이지 - 각 논문 항목 간격 줄이기 */
+  .page__content h2 {
+    margin-top: 0.6em;
+    margin-bottom: 0.1em;
+    font-size: 1.1em;
+    border-bottom: none;
+  }
+
+  /* Conference venue 강조 */
+  .page__content h2 + p em {
+    font-style: normal;
+    font-weight: 600;
+    color: #2a5db0;       /* 원하는 색으로 조정 */
+    background: #eef3fb;
+    padding: 1px 6px;
+    border-radius: 4px;
+    font-size: 0.88em;
+  }
+
+  /* 저자 줄 여백도 줄이기 */
+  .page__content h2 + p + p {
+    margin-top: 0.1em;
+    margin-bottom: 0.8em;
+    font-size: 0.92em;
+    color: #555;
+  }
+
+  /* 섹션 구분선 (Conference Proceedings / Journal Articles) 간격 */
+  .page__content h2:has(+ hr),
+  .page__content hr {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+  }
+</style>
