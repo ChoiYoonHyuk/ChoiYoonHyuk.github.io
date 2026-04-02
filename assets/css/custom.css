@@ -434,13 +434,13 @@ tbody td {
   font-size: 0.9em !important;
 }
 
-/* venue 강조 배지 */
-.archive__item p i {
+.archive__item p i.venue-short {
   font-style: normal !important;
   font-weight: 600 !important;
   color: #2a5db0 !important;
   background: #eef3fb !important;
-  padding: 1px 7px !important;
+  padding: 2px 8px !important;
   border-radius: 4px !important;
   font-size: 0.87em !important;
+  margin-right: 6px !important;
 }
