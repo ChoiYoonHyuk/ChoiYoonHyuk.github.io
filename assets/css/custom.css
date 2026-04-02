@@ -380,3 +380,56 @@ tbody td {
   margin-top: 0.4em;
   border-radius: 2px;
 }
+
+/* ── Publications: 항목 간격 줄이기 ── */
+.archive__item {
+  margin-bottom: 0.6em !important;
+  padding-bottom: 0.6em !important;
+}
+
+.archive__item-title {
+  margin-top: 0.3em !important;
+  margin-bottom: 0.15em !important;
+  font-size: 1.05em !important;
+  border-bottom: none !important;
+}
+
+.archive__item-excerpt {
+  margin-top: 0.1em !important;
+  margin-bottom: 0.2em !important;
+  font-size: 0.9em !important;
+}
+
+/* ── Conference venue 강조 (em 태그 안 venue) ── */
+.archive__item-excerpt em {
+  font-style: normal !important;
+  font-weight: 600 !important;
+  color: #2a5db0 !important;
+  background: #eef3fb !important;
+  padding: 1px 7px !important;
+  border-radius: 4px !important;
+  font-size: 0.87em !important;
+}
+
+/* ── fallback: page__content 직접 h2인 경우 ── */
+.page__content h2 {
+  margin-top: 0.6em !important;
+  margin-bottom: 0.1em !important;
+  border-bottom: none !important;
+}
+
+.page__content h2 + p em {
+  font-style: normal !important;
+  font-weight: 600 !important;
+  color: #2a5db0 !important;
+  background: #eef3fb !important;
+  padding: 1px 7px !important;
+  border-radius: 4px !important;
+  font-size: 0.87em !important;
+}
+
+.page__content h2 + p + p {
+  margin-top: 0.1em !important;
+  margin-bottom: 0.6em !important;
+  font-size: 0.9em !important;
+}
