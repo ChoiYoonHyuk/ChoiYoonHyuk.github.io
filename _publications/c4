@@ -3,6 +3,6 @@ title: "Introducing CausalBench: A Flexible Benchmark Framework for Causal Analy
 collection: publications
 category: conferences
 date: 2024-09-12
-venue: 'ACM Conference on Information and Knowledge Management (CIKM), Benchmark Track'
+venue: '<i class="venue-short">CIKM 2024 (Benchmark)</i> ACM Conference on Information and Knowledge Management'
 citation: 'Ahmet Kapkiç, Pratanu Mandal, Shu Wan, Paras Sheth, Abhinav Gorantla, <ins>Yoonhyuk Choi</ins>, Huan Liu, K Selçuk Candan'
 ---
