@@ -435,8 +435,7 @@ tbody td {
 }
 
 /* venue 강조 배지 */
-.archive__item-excerpt p em,
-.archive__item-excerpt em {
+.archive__item p i {
   font-style: normal !important;
   font-weight: 600 !important;
   color: #2a5db0 !important;
