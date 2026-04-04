@@ -15,6 +15,7 @@ News
 
 {% for item in site.data.news %}
 <p style="margin: 0.3em 0;">[{{ item.date }}] {{ item.text | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+{% unless forloop.last %}<hr>{% endunless %}
 {% endfor %}
 
 
