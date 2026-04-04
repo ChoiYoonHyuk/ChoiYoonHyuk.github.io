@@ -3,6 +3,9 @@
 
 - date: "2026-01-15"
   text: "Paper \"Sheaf Graph Neural Networks via PAC-Bayes Spectral Optimization\" accepted at **AAAI 2026**!"
-  
-- date: "2026-10-01"
+
+- date: "2025-10-01"
   text: "Paper \"Beyond Binary: Improving Signed Message Passing in Graph Neural Networks for Multi-Class Graphs\" accepted at **TPAMI (Impact Factor: top 1%)**!"
+
+- date: "2025-06-03"
+  text: "Paper \"Selective Blocking for Message-Passing Neural Networks on Heterophilic Graphs\" accepted at **UAI 2025**!"
