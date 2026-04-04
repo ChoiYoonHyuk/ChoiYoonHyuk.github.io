@@ -13,11 +13,12 @@ I joined Sookmyung Women's University as an Assistant Professor in September 202
 News
 ======
 
-{% include base_path %}
-{% assign sorted_pubs = site.publications | sort: "date" | reverse %}
-{% for post in sorted_pubs limit:5 %}
-  {% include archive-single.html %}
+{% for item in site.data.news %}
+<p style="margin: 0.3em 0;">[{{ item.date }}] {{ item.text | markdownify | remove: "<p>" | remove: "</p>" }}</p>
 {% endfor %}
+
+
+
 
 <!--
 Work experience
