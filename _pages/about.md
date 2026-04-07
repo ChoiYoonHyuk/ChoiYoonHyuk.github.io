@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I joined Sookmyung Women’s University as an Assistant Professor in September 2025. My research interests include machine learning, graph neural networks, recommender systems, and large language models, as well as emerging machine learning algorithms.
+I joined Sookmyung Women’s University as an Assistant Professor in September 2025. I received my Ph.D. in Computer Engineering from Seoul National University, advised by Prof. [Chong-Kwon Kim](https://scholar.google.com/citations?user=KRykCKkAAAAJ&hl=en). 
+
+My research interests include machine learning, graph neural networks, recommender systems, and large language models, as well as emerging machine learning algorithms.
 
 
 News
