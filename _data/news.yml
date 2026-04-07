@@ -1,11 +1,14 @@
 - date: "Apr. 2026"
-  text: "Paper \"Delay-Aware Sequential Recommendation with Dynamic Graphs and Variate-Temporal Decomposition\" accepted at **SIGIR 2026 (short)**!"
+  text: "Paper accepted at **SIGIR 2026 (short)**!"
 
 - date: "Jan. 2026"
-  text: "Paper \"Sheaf Graph Neural Networks via PAC-Bayes Spectral Optimization\" accepted at **AAAI 2026**!"
+  text: "Paper accepted at **AAAI 2026**!"
 
 - date: "Oct. 2025"
-  text: "Paper \"Beyond Binary: Improving Signed Message Passing in Graph Neural Networks for Multi-Class Graphs\" accepted at **TPAMI (Impact Factor: top 1%)**!"
+  text: "Paper accepted at **TPAMI (Impact Factor: top 1%)**!"
 
 - date: "Jun. 2025"
-  text: "Paper \"Selective Blocking for Message-Passing Neural Networks on Heterophilic Graphs\" accepted at **UAI 2025**!"
+  text: "Paper accepted at **UAI 2025**!"
+
+- date: "Mar. 2025"
+  text: "Two papers accepted at **WSDM 2025**!"
