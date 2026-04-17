@@ -9,7 +9,7 @@ redirect_from:
 <div style="display: flex; align-items: flex-start; gap: 40px;">
 
 <div style="flex: 1;">
-I joined Sookmyung Women’s University as an Assistant Professor in September 2025. I received my Ph.D. in Computer Engineering from Seoul National University, advised by Prof. [Chong-Kwon Kim](https://scholar.google.com/citations?user=KRykCKkAAAAJ&hl=en). 
+I joined Sookmyung Women’s University as an Assistant Professor in September 2025. I received my Ph.D. in Computer Engineering from Seoul National University, advised by Prof. <a href="https://scholar.google.com/citations?user=KRykCKkAAAAJ&hl=en">Chong-Kwon Kim</a>. 
 
 My research interests include emerging machine learning algorithms, large language models, graph neural networks, and recommender systems.
 </div>
