@@ -25,7 +25,7 @@ News
 
 {% for item in site.data.news %}
 {% unless forloop.first %}<hr style="border: none; border-top: 0.5px solid #ccc; margin: 0.6em 0;">{% endunless %}
-<p style="margin: 0.3em 0;">[{{ item.date }}] {{ item.text | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+<p style="margin: 0.3em 0; font-size: 1em; color: #333; font-weight: normal;">[{{ item.date }}] {{ item.text | markdownify | remove: "<p>" | remove: "</p>" | strip_newlines }}</p>
 {% endfor %}
 
 
