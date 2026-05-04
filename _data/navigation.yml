@@ -3,7 +3,7 @@
 # Changing the order here will adjust the order and you can also add additional
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
-
+ 
 main:
   - title: "About me"
     url: /
@@ -12,6 +12,8 @@ main:
     url: /members/
   - title: "Publications"
     url: /publications/
+  - title: "Funding"
+    url: /funding/
   - title: "Lectures"
     url: /lectures/
   - title: "Recruiting"
@@ -19,12 +21,12 @@ main:
     #url: /
 #  - title: "Talks"
 #    url: /talks/    
-
+ 
 #  - title: "Teaching"
 #    url: /teaching/    
     
 #  - title: "Portfolio"
 #    url: /portfolio/
-
+ 
 #  - title: "CV"
 #    url: /cv/
