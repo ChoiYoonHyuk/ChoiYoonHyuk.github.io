@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "연구비 (Funding)"
 permalink: /funding/
 author_profile: true
