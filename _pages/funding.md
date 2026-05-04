@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "연구비 (Funding)"
+title: "Funding"
 permalink: /funding/
 author_profile: true
 ---
