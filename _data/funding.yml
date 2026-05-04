@@ -1,0 +1,23 @@
+# Research Funding Data
+# Each entry: title, agency, period, role, amount (optional)
+
+- title: "그래프 신경망 기반 이기종 그래프 학습 및 추론 기법 연구"
+  agency: "한국연구재단 (NRF)"
+  program: "개인연구 - 신진연구"
+  period: "2025.03 ~ 2028.02"
+  role: "Principal Investigator"
+  status: ongoing
+
+- title: "Large Language Model 기반 지식 그래프 추론 및 RAG 최적화 연구"
+  agency: "정보통신기획평가원 (IITP)"
+  program: "AI 핵심원천기술개발"
+  period: "2024.06 ~ 2026.05"
+  role: "Co-Investigator"
+  status: ongoing
+
+- title: "그래프 구조 학습 기반 추천 시스템 고도화 연구"
+  agency: "한국연구재단 (NRF)"
+  program: "기초연구사업 - 기본연구"
+  period: "2022.06 ~ 2024.05"
+  role: "Researcher"
+  status: completed
