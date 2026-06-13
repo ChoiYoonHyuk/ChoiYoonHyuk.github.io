@@ -4,6 +4,6 @@ collection: publications
 category: conferences
 date: 2023-07-02
 venue: '<i class="venue-short">UAI 2023</i> Conference on Uncertainty in Artificial Intelligence'
-citation: 'Taewook Ko, <ins>Yoonhyuk Choi</ins>, Chong-Kwon Kim'
+citation: 'Taewook Ko, <strong class="my-name">Yoonhyuk Choi</strong>, Chong-Kwon Kim'
 paperurl: https://proceedings.mlr.press/v216/ko23a.html
 ---
