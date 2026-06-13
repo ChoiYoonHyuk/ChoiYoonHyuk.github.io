@@ -4,6 +4,6 @@ collection: publications
 category: conferences
 date: 2024-12-04
 venue: '<i class="venue-short">Bigdata 2024</i> IEEE Big Data Conference'
-citation: '<ins>Yoonhyuk Choi</ins>, Reepal Shah, John Sabo, Huan Liu, K. Selçuk Candan'
+citation: '<strong class="my-name">Yoonhyuk Choi</strong>, Reepal Shah, John Sabo, Huan Liu, K. Selçuk Candan'
 paperurl: https://ieeexplore.ieee.org/abstract/document/10825821/
 ---
