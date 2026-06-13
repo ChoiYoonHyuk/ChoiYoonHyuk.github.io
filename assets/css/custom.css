@@ -437,8 +437,9 @@ tbody td {
 .archive__item p i.venue-short {
   font-style: normal !important;
   font-weight: 600 !important;
-  color: #2F5F9F !important;
-  background: #EEF4FC !important;
+  color: #244E86 !important;
+  background: #E6EEF9 !important;
+  border: 1px solid #C9DAF0 !important;
   padding: 2px 8px !important;
   border-radius: 4px !important;
   font-size: 0.87em !important;
