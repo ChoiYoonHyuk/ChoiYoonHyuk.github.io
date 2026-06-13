@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 date: 2021-08-18
 venue: '<i class="venue-short">PLOS One 2021</i>'
-citation: 'Jiho Choi, Taewook Ko, <ins>Yoonhyuk Choi</ins>, Hyungho Byun, Chong-Kwon Kim'
+citation: 'Jiho Choi, Taewook Ko, <strong class="my-name">Yoonhyuk Choi</strong>, Hyungho Byun, Chong-Kwon Kim'
 paperurl: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0256039
 ---
 

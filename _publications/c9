@@ -4,6 +4,6 @@ collection: publications
 category: conferences
 date: 2026-01-20
 venue: '<i class="venue-short">AAAI 2026</i> AAAI Conference on Artificial Intelligence'
-citation: '<ins>Yoonhyuk Choi</ins>, Jiho Choi, Taewook Ko, Jongwook Kim, Chong-Kwon Kim'
+citation: '<strong class="my-name">Yoonhyuk Choi</strong>, Jiho Choi, Taewook Ko, Jongwook Kim, Chong-Kwon Kim'
 paperurl: https://ojs.aaai.org/index.php/AAAI/article/view/39193
 ---
