@@ -445,3 +445,8 @@ tbody td {
   font-size: 0.87em !important;
   margin-right: 6px !important;
 }
+
+.my-name {
+  font-weight: 800;
+  color: #1f5faa;
+}
