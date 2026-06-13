@@ -5,4 +5,5 @@ category: conferences
 date: 2024-09-12
 venue: '<i class="venue-short">CIKM 2024 (Benchmark)</i> ACM Conference on Information and Knowledge Management'
 citation: 'Ahmet Kapkiç, Pratanu Mandal, Shu Wan, Paras Sheth, Abhinav Gorantla, <ins>Yoonhyuk Choi</ins>, Huan Liu, K Selçuk Candan'
+paperurl: https://dl.acm.org/doi/abs/10.1145/3627673.3679218
 ---
