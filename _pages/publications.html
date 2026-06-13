@@ -13,24 +13,25 @@ author_profile: true
 
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
-  {% for category in site.publication_category  %}
+  {% for category in site.publication_category %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        <font size=6em color="blue"><h2>{{ category[1].title }}</h2></font><hr />
+        <font size="6em" color="blue"><h2>{{ category[1].title }}</h2></font><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html %}
+
+      {% include archive-single.html paperurl=post.paperurl %}
+
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
-    {% include archive-single.html %}
+
+    {% include archive-single.html paperurl=post.paperurl %}
+
   {% endfor %}
 {% endif %}
-
-
-
