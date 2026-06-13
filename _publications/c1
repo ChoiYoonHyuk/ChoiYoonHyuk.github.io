@@ -4,6 +4,6 @@ collection: publications
 category: conferences
 date: 2022-10-17
 venue: '<i class="venue-short">CIKM 2022</i> ACM Conference on Information and Knowledge Management'
-citation: '<strong>Yoonhyuk Choi</strong>, Jiho Choi, Taewook Ko, Hyungho Byun, Chong-Kwon Kim'
+citation: '<strong class="my-name">Yoonhyuk Choi</strong>, Jiho Choi, Taewook Ko, Hyungho Byun, Chong-Kwon Kim'
 paperurl: https://dl.acm.org/doi/abs/10.1145/3511808.3557434
 ---
