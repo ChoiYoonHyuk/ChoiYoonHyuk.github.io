@@ -3,7 +3,7 @@ title: "Dynamic graph convolutional networks with attention mechanism for rumor 
 collection: publications
 category: manuscripts
 date: 2021-08-18
-venue: '<i class="venue-short">PLOS One 2021</i>'
+venue: '<i class="venue-short">PLOS One \'21</i>'
 citation: 'Jiho Choi, Taewook Ko, <strong class="my-name">Yoonhyuk Choi</strong>, Hyungho Byun, Chong-Kwon Kim'
 paperurl: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0256039
 ---
