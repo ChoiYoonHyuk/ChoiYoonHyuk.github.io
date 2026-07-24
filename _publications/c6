@@ -3,7 +3,7 @@ title: "Mitigating Overfitting in Graph Neural Networks via Feature and Hyperpla
 collection: publications
 category: conferences
 date: 2025-03-24
-venue: '<i class="venue-short">WSDM \'25</i> ACM International Conference on Web Search and Data Mining'
+venue: '<i class="venue-short">WSDM 2025</i> ACM International Conference on Web Search and Data Mining'
 citation: '<strong class="my-name">Yoonhyuk Choi</strong>, Jiho Choi, Taewook Ko, Chong-Kwon Kim'
 paperurl: https://dl.acm.org/doi/abs/10.1145/3701551.3703487
 ---
