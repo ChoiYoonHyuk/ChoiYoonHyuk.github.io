@@ -3,7 +3,7 @@ title: "Beyond Binary: Improving Signed Message Passing in Graph Neural Networks
 collection: publications
 category: manuscripts
 date: 2025-11-30
-venue: '<i class="venue-short">TPAMI 2025</i> IEEE Transactions on Pattern Analysis and Machine Intelligence'
+venue: '<i class="venue-short">TPAMI '25</i> IEEE Transactions on Pattern Analysis and Machine Intelligence'
 citation: '<strong class="my-name">Yoonhyuk Choi</strong>, Taewook Ko, Jiho Choi, Chong-Kwon Kim'
 paperurl: https://ieeexplore.ieee.org/abstract/document/11045212
 ---
