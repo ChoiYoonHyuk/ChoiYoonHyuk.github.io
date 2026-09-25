@@ -3,7 +3,7 @@ title: "A Differentiable 3D Scene Graph Metric via Contextual Hellinger Triplet 
 collection: publications
 category: conferences
 date: 2026-09-24
-venue: '<i class="venue-short">CIKM 2026</i> International Conference on Information and Knowledge Management'
+venue: '<i class="venue-short">NeurIPS 2026</i> Neural Information Processing Systems'
 citation: 'U-Chae Jun, <strong class="my-name">Yoonhyuk Choi</strong>, Jiwoo Kang'
 paperurl: https://doi.org/10.1145/3799682.3840733
 ---
