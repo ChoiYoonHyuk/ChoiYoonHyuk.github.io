@@ -11,7 +11,7 @@ toc_icon: "list"
 ---
 
 **연구실 명**
- AI 추론 연구실 (AI Inference Lab)
+ AI 추론 연구실 (AI² Lab)
 
 **연구 분야**
  Large Language Models · Retrieval-Augmented Generation · Graph Neural Networks · Recommender Systems · Data Mining 등
