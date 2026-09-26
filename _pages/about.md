@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "AI Inference (AI²) Lab"
 layout: single
 author_profile: true
 redirect_from: 
