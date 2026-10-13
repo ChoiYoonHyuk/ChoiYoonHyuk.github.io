@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "New Member Recruiting (신입 연구실 멤버 모집) <br/> - 학부 연구생 임시 마감, 석/박사의 경우 가능 <br/> - 자리와 별개로 논문 작성을 경험해 보고 싶으신 분은 메일 주세요."
+title: "New Member Recruiting (신입 연구실 멤버 모집) <br/> - 석/박사 모집 중 (학부 연구생 임시 마감) <br/> - 자리와 별개로 논문 작성을 경험해 보고 싶으신 분은 메일 주세요."
 author_profile: true
 permalink: /join/
 overlay_color: "#333"
