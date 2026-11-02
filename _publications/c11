@@ -4,6 +4,6 @@ collection: publications
 category: conferences
 date: 2026-05-01
 venue: '<i class="venue-short">ICML 2026</i> International Conference on Machine Learning Conference'
-citation: '<strong class="my-name">Yoonhyuk Choi</strong>, Jiho Choi, Jiwoo Kang'
+citation: '<strong class="my-name">Yoonhyuk Choi</strong>, Jiho Choi, Jiwoo Kang<sup>*</sup>'
 paperurl: https://openreview.net/pdf?id=hFocSMm1Ke
 ---
